@@ -33,7 +33,7 @@ Além do aspecto técnico, este projeto também foi pensado como exercício de:
 * HTML5
 * CSS3
 * JavaScript (Vanilla)
-* PokeAPI ([https://pokeapi.co/](https://pokeapi.co/))
+* PokeAPI
 
 ## Funcionalidades
 
@@ -66,10 +66,11 @@ Apesar de ser um projeto simples, ele pode ser relacionado a princípios de gove
 
 ## Possíveis melhorias futuras
 
-* Implementar paginação ou lazy loading
-* Adicionar sistema de filtros por tipo
-* Melhorar acessibilidade (ARIA)
-* Migrar para React ou outro framework
-* Implementar testes automatizados
+- [ ] Implementar paginação ou lazy loading
+- [ ] Adicionar sistema de filtros por tipo
+- [ ] Melhorar acessibilidade (ARIA)
+- [ ] Migrar para React ou outro framework
+- [ ] Implementar testes automatizados
 
+**Desenvolvido por Kaio Sumikawa**
 
